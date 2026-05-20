@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Havana Nights
+
+This log tracks the cryptographic history and versioning for the song **Havana Nights** (havana-nights).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T20:56:09.482398 | `v1` | `c4b45a6c7de1a5638b8fdee591fcf2ae22eda139910b0ccd50c20d735f0ced77` | `9c289ca44e4debdfcfba7a8bfe913b2cb001525bbe5a121e5c0260030b25ffd7` | `2026-05-20_havana-nights-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
