@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/havana-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Havana Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/havana-nights/) |
+| **Get License** | [Official Music Licensing for Havana Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/havana-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Naina de jaadu naal kardi tu mind blow
+> Tera nakhra wakhra, jag challe slow
+> Sohne mukhre de utte tere penda moonlight
+> Dil karda ae mera tainu vekha all night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
