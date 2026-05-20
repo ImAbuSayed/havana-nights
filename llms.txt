@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/havana-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Havana Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/havana-nights/) |
+| **Get License** | [Commercial Licensing for Havana Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/havana-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1733)
 
 ---
 
